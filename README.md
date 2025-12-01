@@ -13,7 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Suhas3000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas3000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6020538" style='border:none;'></iframe>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suhas3000&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
